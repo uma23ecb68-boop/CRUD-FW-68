@@ -1,0 +1,16 @@
+{
+  "name": "product-crud-mvc",
+  "version": "1.0.0",
+  "description": "Node.js + MongoDB CRUD API using MVC pattern",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
